@@ -40,8 +40,15 @@ The jupyter notebook contains additional details of the analysis
   - Box plot of final tumor volume with outlier noted as a blue star
 
 ### Line and Scatter Plots
-- Line chart of a single mouse example treated with Capomulin
+- Line chart of a single mouse from the study
+  - Mouse ID is sampled randomly from a subset based on survival in study and treated with Capomuli
   - Chart is number of days by tumor volume
+- Scatter plot is average tumor volume by mouse weight for Capomuli regimen
+
+### Correlation and Regression
+- Correlation coefficient calculated using pearson's
+- Linear regression and r-squared calculated
+  - The linear regression line equation is added to a repeat of the scater plot from the prior section
 
 
 ## Licensing by:
