@@ -48,7 +48,8 @@ The jupyter notebook contains additional details of the analysis
 ### Correlation and Regression
 - Correlation coefficient calculated using pearson's
 - Linear regression and r-squared calculated
-  - The linear regression line equation is added to a repeat of the scater plot from the prior section
+  - The linear regression line equation is included in a variation of the scatter plot from the prior step
+    - The x-axis and y-axis were changed to represent the independent and dependent variables in the study
 
 
 ## Licensing by:
