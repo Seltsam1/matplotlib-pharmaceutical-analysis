@@ -8,6 +8,8 @@ Repository contains:
 - A jupyter notebook file with all analyses and summary insights (pharmaceutical-analysis.ipynb)
 - Two csv files used in the analysis (Mouse_metadata.csv and Study_results.csv)
 
+The jupyter notebook contains additional details of the analysis
+
 
 ## Features
 
@@ -24,6 +26,16 @@ Repository contains:
 - Includes two methods:
   - Pandas approach
   - Aggregation method using numpy and scipy
+
+### Bar and Pie Charts -
+- There are two versions of each chart:
+  - One uses pandas.plot and the other uses matplotlip.pyplot
+- Bar charts show total count of measurements for each of the 8 treatment groups
+- Pie charts show the distribution of female and male mice in the study
+
+### Quartiles, Outliers, and Boxplots
+- Qunatitative investigation of potential outliers based on final measurement of tumor volume (mm3)
+  - Analysis looks at tumor volume at last timepoint for mouse per 4 treatment groups of interest
 
 
 ## Licensing by:
